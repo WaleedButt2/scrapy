@@ -1,0 +1,13 @@
+selenium
+requests
+newspaper3k
+nltk
+torch
+torchvision 
+torchaudio
+sentence_transformers
+pandas
+mistralai
+pyodbc
+sqlalchemy
+psycopg2
